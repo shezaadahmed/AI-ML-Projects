@@ -5,6 +5,10 @@ Plagiarism is the act of using someone else's words, ideas, or work without givi
 # Things to do
 Here are some of the things to do in this problem statement.
 * Create an text file as much as you want.
+  ```bash
+pip3 install -r requirements.txt
+```
+
 * Insert certain content right into the the files.
 * Here the best part is that we dont need to cross check and verify if there;s similarity between any of these contents.
 * The various AI/ML algorithms helps to analysis the similarities between those text files.
@@ -26,3 +30,5 @@ Machine learning (ML) plays a significant role in plagiarism analysis by automat
   5.  Cross-Language Plagiarism Detection: ML models can be trained to detect plagiarism across multiple languages, making them versatile tools for detecting plagiarism in diverse content.
 
   6. Learning from Data: ML models can improve over time by learning from a large dataset of known plagiarism cases. This means that as the system encounters more instances of plagiarism, it becomes better at recognizing new cases.
+# Credits 
+All the credits goes to [kalebu](https://github.com/kalebu)
