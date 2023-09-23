@@ -5,9 +5,6 @@ Plagiarism is the act of using someone else's words, ideas, or work without givi
 # Things to do
 Here are some of the things to do in this problem statement.
 * Create an text file as much as you want.
-  ```bash
-pip3 install -r requirements.txt
-```
 * Insert certain content right into the the files.
 * Here the best part is that we dont need to cross check and verify if there;s similarity between any of these contents.
 * The various AI/ML algorithms helps to analysis the similarities between those text files.
@@ -15,6 +12,11 @@ pip3 install -r requirements.txt
 We used various tools for different purposes and different executions. We used Winnowing Algorithm that uses bulk document analysis to detect heavy data and it can withstand and process even huge amount of data. 
 We've also used Exact Match Algorithm to detect the phrases and sentences each text file has in them.
 And when the result pops up, the algorithm will show you how much percent of text similarity is present in different files. 
+# Code and Software Frameworks Required
+```bash
+pip3 install -r requirements.txt
+```
+
 # Contribution of AI/ML to Modern Problems such as Plagairism and others
 Machine learning (ML) plays a significant role in plagiarism analysis by automating and enhancing the detection and analysis of potential instances of plagiarism. Here are some key contributions of ML in plagiarism analysis:
 
