@@ -12,7 +12,7 @@ Here are some of the things to do in this problem statement.
 We used various tools for different purposes and different executions. We used Winnowing Algorithm that uses bulk document analysis to detect heavy data and it can withstand and process even huge amount of data. 
 We've also used Exact Match Algorithm to detect the phrases and sentences each text file has in them.
 And when the result pops up, the algorithm will show you how much percent of text similarity is present in different files. 
-# Contribution of AI/ML to Modern Problems uch as Plagairism and others
+# Contribution of AI/ML to Modern Problems such as Plagairism and others
 Machine learning (ML) plays a significant role in plagiarism analysis by automating and enhancing the detection and analysis of potential instances of plagiarism. Here are some key contributions of ML in plagiarism analysis:
 
    1. Efficient Document Comparison: ML algorithms enable the comparison of documents in an efficient and scalable manner. Instead of manually comparing every document to a database of sources, ML models can automate this process, making it faster and more accurate.
