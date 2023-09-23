@@ -1,7 +1,7 @@
 # AI-ML-Projects
 In this project, we have solved some of the regular problems with the best upcoming solutions using various AI/ML tools such as SciKit Learn Version 1.2.1
 # What is Plagiarism?
-Plagiarism is the act of using someone else's words, ideas, or work without giving them proper credit or without permission, and presenting it as your own. It is considered a form of academic and intellectual dishonesty, as well as an ethical violation in many contexts, including academia, journalism, publishing, and creative arts. It is an punishable offense in legal and oficial terms.
+Plagiarism is the act of using someone else's words, ideas, or work without giving them proper credit or without permission, and presenting it as your own. It is considered a form of academic and intellectual dishonesty, as well as an ethical violation in many contexts, including academia, journalism, publishing, and creative arts. It is an punishable offense in legal and official terms.
 # Things to do
 Here are some of the things to do in this problem statement.
 * Create an text file as much as you want.
