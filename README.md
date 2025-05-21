@@ -20,16 +20,16 @@ pip3 install -r requirements.txt
 # Contribution of AI/ML to Modern Problems such as Plagairism and others
 Machine learning (ML) plays a significant role in plagiarism analysis by automating and enhancing the detection and analysis of potential instances of plagiarism. Here are some key contributions of ML in plagiarism analysis:
 
-   1. Efficient Document Comparison: ML algorithms enable the comparison of documents in an efficient and scalable manner. Instead of manually comparing every document to a database of sources, ML models can automate this process, making it faster and more accurate.
+   **1. Efficient Document Comparison:** ML algorithms enable the comparison of documents in an efficient and scalable manner. Instead of manually comparing every document to a database of sources, ML models can automate this process, making it faster and more accurate.
 
-   2. Feature Extraction: ML models can extract relevant features from text, such as word frequency, sentence structure, and n-gram patterns, to identify similarities between documents. These features help in identifying potential instances of plagiarism.
+   **2. Feature Extraction:** ML models can extract relevant features from text, such as word frequency, sentence structure, and n-gram patterns, to identify similarities between documents. These features help in identifying potential instances of plagiarism.
 
-   3. Pattern Recognition: ML algorithms can recognize patterns and similarities between texts, even if they have been paraphrased or reworded. This is crucial because plagiarism can take various forms beyond direct copying.
+   **3. Pattern Recognition:** ML algorithms can recognize patterns and similarities between texts, even if they have been paraphrased or reworded. This is crucial because plagiarism can take various forms beyond direct copying.
 
-  4. Customization and Tuning: ML-based plagiarism detection systems can be customized and fine-tuned to suit specific needs and domains. This allows institutions and organizations to adapt plagiarism detection to their unique requirements.
+  **4. Customization and Tuning:** ML-based plagiarism detection systems can be customized and fine-tuned to suit specific needs and domains. This allows institutions and organizations to adapt plagiarism detection to their unique requirements.
 
-  5.  Cross-Language Plagiarism Detection: ML models can be trained to detect plagiarism across multiple languages, making them versatile tools for detecting plagiarism in diverse content.
+  **5.  Cross-Language Plagiarism Detection:** ML models can be trained to detect plagiarism across multiple languages, making them versatile tools for detecting plagiarism in diverse content.
 
-  6. Learning from Data: ML models can improve over time by learning from a large dataset of known plagiarism cases. This means that as the system encounters more instances of plagiarism, it becomes better at recognizing new cases.
+  **6. Learning from Data:** ML models can improve over time by learning from a large dataset of known plagiarism cases. This means that as the system encounters more instances of plagiarism, it becomes better at recognizing new cases.
 # Credits 
 All the credits goes to [kalebu](https://github.com/kalebu)
