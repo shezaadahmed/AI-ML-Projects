@@ -31,5 +31,3 @@ Machine learning (ML) plays a significant role in plagiarism analysis by automat
   **5.  Cross-Language Plagiarism Detection:** ML models can be trained to detect plagiarism across multiple languages, making them versatile tools for detecting plagiarism in diverse content.
 
   **6. Learning from Data:** ML models can improve over time by learning from a large dataset of known plagiarism cases. This means that as the system encounters more instances of plagiarism, it becomes better at recognizing new cases.
-# Credits 
-All the credits goes to [kalebu](https://github.com/kalebu)
